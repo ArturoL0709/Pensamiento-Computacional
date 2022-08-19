@@ -1,0 +1,20 @@
+Reproductor MP3
+
+Este proyecto trata de crear un programa que te permita reproducir archivos en formato mp3.
+1. Se muestra la interfaz del programa 
+    I. Bienvenido al reprodcuctor mp3
+2. Muestra las siguientes opciones
+    a) Seleccionar archivo de audio
+    b) Seleccionar carpeta 
+    c) Anterior
+    d) Pausar 
+    e) Siguiente 
+    f) Cerrar 
+3. Si el usuaruio selecciona la opción a: Abrir el explorador de archivos para seleccionar un archivo en formato mp3. 
+4. Si el usuario selecciona la opción b: Abrir el explorador de archivos para reproducir un listado de canciones. 
+5. Si el ususario selecciona la opción c: Reproducir el archivo anterior al que se este reproduciendo.
+6. Si el usuario selecciona la opción d: Detener la reproducción del archivo que se este reproduciendo.
+7. Si el usuario selecciona la opción e: Detener la reproducción y pasar a repoducir el siguiente archivo.
+8. Si el usuario selecciona la opción f: Cerrar el programa. 
+
+     
