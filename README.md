@@ -1,2 +1,0 @@
-# Pensamiento-Computacional
-TEC
