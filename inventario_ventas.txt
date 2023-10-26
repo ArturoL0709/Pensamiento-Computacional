@@ -1,0 +1,5 @@
+Inventario:
+Xbox series x,Xbox,2
+
+Ventas:
+Xbox series x,Arturo,1
